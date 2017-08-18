@@ -1,5 +1,5 @@
 var index = require("../index.js")
-
+window.word
 /*
 describe('what-is-a-test', () => {
   describe('Name', () => {
